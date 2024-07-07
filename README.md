@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My Sitemap</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shinjuku Aikikai</title>
 </head>
 <body>
-  <h1>Welcome to My Sitemap</h1>
-  <a href="sitemap%20(4).xml">View Sitemap</a>
+    <h1>Welcome to Shinjuku Aikikai</h1>
+    <p>This is the homepage of Shinjuku Aikikai.</p>
 </body>
 </html>
